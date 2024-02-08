@@ -336,6 +336,12 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
+   <div>
+    <input type="checkbox" id="Davechoice" value="900$">
+    <label for="Davechoice">PD and EMS Repair- $</label>900
+    <input type="number" value="1" min="1">
+  </div>
+
    <h3>Misc</h3>
   
 <div style="margin-bottom: 10px;"></div>
@@ -408,7 +414,7 @@ function resetCalculator() {
 
 <div>
   <input type="checkbox" id="25off" value="-30%">
-  <label for="25off">Mechs/PD & EMS - 30% off</label>
+  <label for="30off">PD & EMS - 30% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
