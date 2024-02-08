@@ -336,54 +336,49 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
+   <h3>Misc</h3>
+  
+<div style="margin-bottom: 10px;"></div>
+
    <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">60- Ice Cream - $</label>12000
+    <input type="checkbox" id="Davechoice" value="325$">
+    <label for="Davechoice">Single Lockpick- $</label>325
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="16000$">
-    <label for="Davechoice">80- Ice Cream - $</label>16000
+    <input type="checkbox" id="Davechoice" value="1500$">
+    <label for="Davechoice">Advanced Lockpick- $</label>1500
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="6000$">
-    <label for="Davechoice">40- Goat Wrap - $</label>6000
+    <input type="checkbox" id="Davechoice" value="350$">
+    <label for="Davechoice">Basic Repair Kit- $</label>350
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="9000$">
-    <label for="Davechoice">60- Goat Wrap - $</label>9000
+    <input type="checkbox" id="Davechoice" value="1000$">
+    <label for="Davechoice">Advanced Repair Kit(Free for Leo)- $</label>1000
     <input type="number" value="1" min="1">
   </div>
 
 <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">80- Goat Wrap - $</label>12000
-    <input type="number" value="1" min="1">
-  </div>
-
-
-
-   <h3>Special Events</h3>
-   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Small Event - $</label>5000
+    <input type="checkbox" id="Davechoice" value="500$">
+    <label for="Davechoice">Cleaning Kit- $</label>500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="10000$">
-    <label for="Davechoice">Medium Event - $</label>10000
+    <input type="checkbox" id="Davechoice" value="1000$">
+    <label for="Davechoice">Car Polish (1-2 Days)- $</label>1000
     <input type="number" value="1" min="1">
   </div>
  
   <div>
-    <input type="checkbox" id="Davechoice" value="20000$">
-    <label for="Davechoice">Big Event - $</label>20000
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">Fantastic Wax (3-4 Days)- $</label>2000
     <input type="number" value="1" min="1">
   </div>
     
