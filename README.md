@@ -381,6 +381,18 @@ function resetCalculator() {
     <label for="Davechoice">Fantastic Wax (3-4 Days)- $</label>2000
     <input type="number" value="1" min="1">
   </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="25000$">
+    <label for="Davechoice">Harness- $</label>25000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="15000$">
+    <label for="Davechoice">Nos- $</label>15000
+    <input type="number" value="1" min="1">
+  </div>
     
   
 
