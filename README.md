@@ -294,28 +294,45 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
    
-  <h3>Specials</h3>
-   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">5k Special - $</label>5000
-    <input type="number" value="1" min="1">
-  </div>
-
-   <div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">10- Ice Cream - $</label>2000
+  <h3>Brakes Upgrades</h3>
+  
+<div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="1000$">
+    <label for="Velmachoice">Brakes Tier 1- $</label>1000
     <input type="number" value="1" min="1">
   </div>
 
    <div>
     <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">20- Ice Cream - $</label>4000
+    <label for="Davechoice">Brakes Tier 2- $</label>4000
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">40- Ice Cream - $</label>8000
+    <input type="checkbox" id="Davechoice" value="7000$">
+    <label for="Davechoice">Brakes Tier 3- $</label>7000
+    <input type="number" value="1" min="1">
+  </div>
+
+  <h3>Turbo</h3>
+  
+<div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="12000$">
+    <label for="Velmachoice">Turbo- $</label>12000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <h3>Repairs</h3>
+  
+<div style="margin-bottom: 10px;"></div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="1400$">
+    <label for="Davechoice">Standard Repair (D-S Class)- $</label>1400
     <input type="number" value="1" min="1">
   </div>
 
