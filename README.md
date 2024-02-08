@@ -272,53 +272,27 @@ function resetCalculator() {
   </div>
   
   
-   <h3> Burger Shot Meals (Drink,Fries, and Ice Cream)</h3>
+   <h3>Transmission Upgrades</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="500$">
-    <label for="Velmachoice">The Bleeder Meal(Meteorite Ice Cream)- $</label>500
+    <input type="checkbox" id="uwueats" value="1000$">
+    <label for="Velmachoice">Transmission Tier 1- $</label>1000
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>500
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">Transmission Tier 2- $</label>4000
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="750$">
-    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>750
+    <input type="checkbox" id="Davechoice" value="7000$">
+    <label for="Davechoice">Transmission Tier 3- $</label>7000
     <input type="number" value="1" min="1">
   </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>430
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="425$">
-    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>425
-    <input type="number" value="1" min="1">
-  </div>
-
-   <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Chicken Wrap Meal(Orangotang Ice Cream)- $</label>430
-    <input type="number" value="1" min="1">
-  </div>
-  
-   <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Goat Cheese Wrap Meal(Meteorite Ice Cream)- $</label>430
-    <input type="number" value="1" min="1">
-  </div>
-  
-
    
   <h3>Specials</h3>
    <div>
