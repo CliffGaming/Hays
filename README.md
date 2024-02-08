@@ -1,4 +1,4 @@
-HAYES
+
 <html>
 <head>
   <title>Menu Calculator</title>
