@@ -227,7 +227,7 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Engine</h3>
+  <h3>Engine Upgrades</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -249,19 +249,25 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div> 
  
-   <h3>Dessert</h3>
+   <h3>Suspension Upgrades</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Meteorite Ice Cream - $</label>200
+    <input type="checkbox" id="Davechoice" value="1000$">
+    <label for="Davechoice">Suspension Tier 1- $</label>1000
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Orangotang Ice Cream - $</label>200
+    <input type="checkbox" id="Davechoice" value="3000$">
+    <label for="Davechoice">Suspension Tier 2- $</label>3000
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Suspension Tier 3- $</label>5000
     <input type="number" value="1" min="1">
   </div>
   
